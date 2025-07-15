@@ -1,6 +1,6 @@
 <!-- Banner (Centered) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Hi I'm Markstephen" width="640"/>
+  <img src="https://raw.githubusercontent.com/markgwapo123/markgwapo123/main/banner.png" alt="Hi I'm Markstephen" width="640"/>
 </p>
 
 <h2 align="center">Hi there, I'm <strong>Markstephen Magbato</strong> 👋</h2>
@@ -10,23 +10,18 @@
 
 ### 🧑‍🎨 About Me
 
-I’m a multidisciplinary **UX/UI + Motion Designer** passionate about intuitive user experiences, motion-rich interfaces, and future-forward design.  
-I love experimenting with **Framer**, **Figma**, and building immersive **3D** or **XR** ideas.
-
-- 🧠 Focused on UX, interaction, motion, and 3D prototyping  
-- 🧪 Merging creativity + code for real product innovation  
-- ✨ Always learning — design systems, accessibility, frontend, spatial design  
+I'm a multidisciplinary **UX/UI + Motion Designer** passionate about intuitive experiences, motion-rich interfaces, and spatial design.  
+I thrive at the intersection of creativity and code, always experimenting with **interactive prototyping** and **immersive visuals**.
 
 ---
 
-### 🎯 Skills & Favorite Tools
+### 🎯 Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
@@ -45,21 +40,21 @@ I love experimenting with **Framer**, **Figma**, and building immersive **3D** o
 
 ---
 
-### 📁 Featured Projects & Case Studies
+### 📁 Featured Projects
 
-| 🖼️ Project | 📝 Description | 🔗 Link |
-|-----------|----------------|--------|
-| **CommUnity Events** | Flutter + Laravel social event system with image uploads, interest toggle, admin panel | [View on Behance](https://behance.net/) |
-| **LabLock System** | Electron + Laravel PC lock interface for computer labs (user login required to unlock) | [View Demo](#) |
-| **3D XR Gallery** | Blender + WebXR prototype of immersive art experience | *Coming Soon* |
+| Project | Description | Link |
+|--------|-------------|------|
+| **CommUnity Events** | Flutter + Laravel social event app with image uploads & interest toggles | [View on Behance](https://behance.net/) |
+| **LabLock System** | Electron + Laravel-powered PC lock UI for computer labs | [Demo ▶️](#) |
+| **3D XR Gallery** | Blender + WebXR immersive gallery prototype | *Coming soon* |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markgwapo123&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markgwapo123&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -77,10 +72,10 @@ I love experimenting with **Framer**, **Figma**, and building immersive **3D** o
 
 ### 🔧 Currently Designing...
 
-- 🎨 **Portfolio Redesign 2025** – with animated page transitions in Framer  
-- 📱 **CommUnity App UI System** – organizing scalable Flutter components  
-- 🌀 **XR Lab Tour** – immersive 3D campus walkthrough for schools  
-- 🧪 **Accessible UI Library** – experimental toolkit for learning platforms  
+- 🎨 **Portfolio Redesign 2025** – implementing animated page transitions in Framer  
+- 📱 **CommUnity App UI System** – building scalable Flutter components  
+- 🌀 **XR Lab Tour** – crafting an immersive 3D campus walkthrough  
+- 🧪 **Accessible UI Library** – designing for inclusive learning platforms  
 
 ---
 
