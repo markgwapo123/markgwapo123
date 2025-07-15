@@ -18,12 +18,15 @@ I thrive at the intersection of creativity and code, always experimenting with *
 ### 🎯 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -31,11 +34,12 @@ I thrive at the intersection of creativity and code, always experimenting with *
 ### 💬 Languages I Use Most
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 
@@ -52,20 +56,14 @@ I thrive at the intersection of creativity and code, always experimenting with *
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-FFC0CB?style=for-the-badge"/></a>
-  <a href="https://dribbble.com/yourusername"><img src="https://img.shields.io/badge/🎨%20Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://behance.net/yourusername"><img src="https://img.shields.io/badge/🖼️%20Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/📘%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/📷%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/✈️%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/📧%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔧 Currently Designing...
-
-- 🎨 **Portfolio Redesign 2025** – implementing animated page transitions in Framer  
-- 📱 **CommUnity App UI System** – building scalable Flutter components  
-- 🌀 **XR Lab Tour** – crafting an immersive 3D campus walkthrough  
-- 🧪 **Accessible UI Library** – designing for inclusive learning platforms  
 
 ---
 
