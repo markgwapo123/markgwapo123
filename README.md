@@ -1,24 +1,27 @@
-<!-- Banner -->
+<!-- Banner (Centered) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Hi I'm Markstephen" width="640"/>
 </p>
 
-
-### 👨‍🎨 About Me
-
-I'm **Markstephen Magbato**, a passionate **UX/UI + Motion Designer** blending code and creativity to build beautiful, intuitive digital experiences.  
-Currently exploring:
-
-- 🌟 Design Systems & Accessibility  
-- 🌀 Motion & Micro-interactions  
-- 🕶️ XR & Immersive Interfaces  
-- 🧠 Behavior-Driven UI  
+<h2 align="center">Hi there, I'm <strong>Markstephen Magbato</strong> 👋</h2>
+<p align="center">🎨 Minimal UX/UI + Motion Designer | Exploring XR, Accessibility & Interaction</p>
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧑‍🎨 About Me
 
-<p align="left">
+I’m a multidisciplinary **UX/UI + Motion Designer** passionate about intuitive user experiences, motion-rich interfaces, and future-forward design.  
+I love experimenting with **Framer**, **Figma**, and building immersive **3D** or **XR** ideas.
+
+- 🧠 Focused on UX, interaction, motion, and 3D prototyping  
+- 🧪 Merging creativity + code for real product innovation  
+- ✨ Always learning — design systems, accessibility, frontend, spatial design  
+
+---
+
+### 🎯 Skills & Favorite Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
@@ -30,9 +33,9 @@ Currently exploring:
 
 ---
 
-### 💻 Most Used Languages
+### 💬 Languages I Use Most
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,45 +45,47 @@ Currently exploring:
 
 ---
 
-### 📁 Featured Case Studies & Projects
+### 📁 Featured Projects & Case Studies
 
-| 🎨 Project | ✍️ Description | 🔗 Link |
+| 🖼️ Project | 📝 Description | 🔗 Link |
 |-----------|----------------|--------|
-| **CommUnity Events** | Flutter + Laravel social app with event posting & interests | [Behance](https://behance.net/) |
-| **LabLock System** | Electron + Laravel PC lock interface with user auth | [Prototype](https://your-prototype-link) |
-| **3D XR Gallery** | A-Frame + Blender-based virtual gallery tour | *Coming Soon* |
+| **CommUnity Events** | Flutter + Laravel social event system with image uploads, interest toggle, admin panel | [View on Behance](https://behance.net/) |
+| **LabLock System** | Electron + Laravel PC lock interface for computer labs (user login required to unlock) | [View Demo](#) |
+| **3D XR Gallery** | Blender + WebXR prototype of immersive art experience | *Coming Soon* |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 🔗 Find Me Online
+### 🌐 Connect With Me
 
-- 🎨 [**Portfolio**](https://your-portfolio.com)  
-- 🎯 [**Dribbble**](https://dribbble.com/yourusername)  
-- 🖼️ [**Behance**](https://behance.net/yourusername)  
-- 💼 [**LinkedIn**](https://linkedin.com/in/yourusername)  
-
----
-
-### ✨ Currently Designing...
-
-- 🧪 **Framer Portfolio Redesign** — Pastel motion, soft interactions  
-- 🧠 **Accessible UI Kit** — For schools and e-learning platforms  
-- 🌐 **XR Lab Tour** — A WebVR experience for students  
+<p align="center">
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-FFC0CB?style=for-the-badge"/></a>
+  <a href="https://dribbble.com/yourusername"><img src="https://img.shields.io/badge/🎨%20Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://behance.net/yourusername"><img src="https://img.shields.io/badge/🖼️%20Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</p>
 
 ---
 
-> _"Good design is invisible. Great design is felt."_ 💡
+### 🔧 Currently Designing...
 
-<!-- Footer flair -->
+- 🎨 **Portfolio Redesign 2025** – with animated page transitions in Framer  
+- 📱 **CommUnity App UI System** – organizing scalable Flutter components  
+- 🌀 **XR Lab Tour** – immersive 3D campus walkthrough for schools  
+- 🧪 **Accessible UI Library** – experimental toolkit for learning platforms  
+
+---
+
+> _“Good design is as little design as possible.” – Dieter Rams_
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:87cefa&height=120&section=footer"/>
 </p>
