@@ -1,19 +1,19 @@
 <!-- Banner (Centered) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/markgwapo123/markgwapo123/main/banner.png" alt="Hi I'm Markstephen" width="640"/>
-</p>
-
-<h2 align="center">Hi there, I'm <strong>Markstephen Magbato</strong> 👋</h2>
-<p align="center">🎨 Minimal UX/UI + Motion Designer | Exploring XR, Accessibility & Interaction</p>
+<h2 align="center">Hi there, I'm <strong>Mark Stephen Magbato</strong> 👋</h2>
+<p align="center">💻 Full-Stack Developer | UI Integrator | Code meets Creativity</p>
 
 ---
 
-### 🧑‍🎨 About Me
+### 🧑‍💻 About Me
 
-I'm a multidisciplinary **UX/UI + Motion Designer** passionate about intuitive experiences, motion-rich interfaces, and spatial design.  
-I thrive at the intersection of creativity and code, always experimenting with **interactive prototyping** and **immersive visuals**.
+I'm a passionate **Full-Stack Developer** who enjoys crafting both the frontend and backend of modern web and mobile applications.  
+I specialize in building responsive UIs, RESTful APIs, and integrated systems using **Flutter**, **Laravel**, **ReactJS**, and modern tools.
 
----
+- 🔧 Backend: PHP, Laravel, MySQL, MongoDB  
+- 🎯 Frontend: HTML, CSS, JavaScript, React, Flutter  
+- 📦 Dev Tools: Git, VSCode, GitHub  
+- 🚀 Focused on clean code, scalable structure, and smooth user experiences
+
 
 ### 🎯 Tools & Technologies
 
