@@ -38,17 +38,7 @@ I thrive at the intersection of creativity and code, always experimenting with *
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
 
-### 📁 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **CommUnity Events** | Flutter + Laravel social event app with image uploads & interest toggles | [View on Behance](https://behance.net/) |
-| **LabLock System** | Electron + Laravel-powered PC lock UI for computer labs | [Demo ▶️](#) |
-| **3D XR Gallery** | Blender + WebXR immersive gallery prototype | *Coming soon* |
-
----
 
 ### 📊 GitHub Stats
 
