@@ -1,6 +1,6 @@
 <!-- Banner (Centered) -->
 <h2 align="center">Hi there, I'm <strong>Mark Stephen Magbato</strong> 👋</h2>
-<p align="center">💻 Full-Stack Developer | UI Integrator | Code meets Creativity</p>
+<p align="center">💻 Full-Stack Developer | Code meets Creativity</p>
 
 ---
 
