@@ -59,7 +59,7 @@ I specialize in building responsive UIs, RESTful APIs, and integrated systems us
   <a href="https://www.facebook.com/profile.php?id=100069621023186"><img src="https://img.shields.io/badge/📘%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/macc_oyz/"><img src="https://img.shields.io/badge/📷%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/✈️%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/📧%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="markstephen.magbato@gmail.com"><img src="https://img.shields.io/badge/📧%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
