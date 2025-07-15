@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb6c1,100:87cefa&height=180&section=header&text=Hi%20I'm%20Markstephen%20👋&fontSize=40&fontAlign=70&desc=Minimal%20UX%2FUI%20%2B%20Motion%20Designer%20%F0%9F%8C%88&descAlign=70" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Hi I'm Markstephen" width="640"/>
+</p>
+
 
 ### 👨‍🎨 About Me
 
